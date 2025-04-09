@@ -1,0 +1,8 @@
+site_name: API Test Docs
+site_description: Домашнее задание №4 - Публикация сайта
+
+theme: material
+
+nav:
+  - Главная: index.md
+  - Справочник: Справочник API.md
