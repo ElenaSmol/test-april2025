@@ -1,3 +1,3 @@
 Тут будет справочник API
 
-[Ссылка на справочник API] (https://api.documentat.io/editor/)
+_https://api.documentat.io/editor/_ - справочник API
